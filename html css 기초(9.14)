@@ -1,0 +1,70 @@
+  
+animation의 다양한 속성을 실습하였다.
+
+예제)
+  /* animation-name: text-ani;
+  animation-duration: 4s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-delay: 5s;
+  animation-timing-function: ease-in-out;
+  animation-play-state: paused; */
+
+
+@keyframes는 애니메이션의 중간 절차 과정을 조정할 수 있게 해줍니다.
+
+예제)
+@keyframes blank_flower {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+< color와 opacity 차이 >
+
+//opacity 속성은 투명도를 지정했을 때 모든 자식 요소에 투명도 값이 상속됩니다.
+//rgba로 지정하면 rgba를 지정한 요소에만 적용되며 상속되지 않습니다.
+
+
+
+< cubic-bezier(큐빅 배지어) >
+
+//Transition 을 통한 효과를 줄 때 변화되어 가는 흐름, 시간에 따른 변화 속도와 같은 일종의 변화되어 가는 정도를 지정하게 된다. 보통 플래시나 익스프레션 블랜드와 같은 디자인 툴에서 에니메이션 효과를 줄 때 자주 사용된다. 큐빅 베지어(cubic-bezier) 값을 이용하여 제어하게 되는데 미리 정해둔 5개의 키워드가 제공된다. 다음의 제공되는 키워드와 그의 값이다
+
+http://cubic-bezier.com/
+https://www.w3schools.com/cssref/css3_pr_transition-timing-function.asp
+
+
+
+< background에 대한 이해 >
+//background에 대한 다양한 속성을 사용해보았다.
+
+https://developer.mozilla.org/ko/docs/Web/CSS/background
+
+::before ::after content 트릭
+
+
+
+< web form 2.0 >
+
+//form,fieldset,legend를 기본셋으로 사용한다.
+
+//브라우저 별로 어떠한 form 속성을 사용할 수 있는지 안내해주는 사이트이다.
+https://bestvpn.org/whats-my-ip/
+
+//웹폼 데모 페이지
+https://www.miketaylr.com/pres/html5/forms2.html
+
+<CSS 방법론 사이트(BEM)>
+http://wit.nts-corp.com/2015/04/16/3538
+
+
+
+webform required
