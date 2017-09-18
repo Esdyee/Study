@@ -1,0 +1,13 @@
+alt와 title의 차이
+
+- alt : 이미지가 표지되지 않거나 이미지를 표시하지않을 때 이미지를 대신하여 표현되는 대체 텍스트
+- titile : 이미지의 제목
+
+margin의 병합
+
+dl dt dd 태그
+
+nth-child
+nth-of-type
+
+css clac()

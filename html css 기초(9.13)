@@ -1,0 +1,42 @@
+strong 중요한 강조
+
+em
+
+background를 잘 배워놔야함
+
+::after 혹은 ::before에서
+content:"\e802";
+
+inline-block
+block
+inline 차이
+
+outline
+
+background 속성 줄임
+
+text-transfor
+
+change class
+toggle
+
+jQuery CDN
+
+rgba()
+
+translate
+
+form & label 안드로메다
+
+<css 제안>
+Draft
+working draft
+candidate recommendation
+Propose Recommendation
+Recommendation --> 표준스펙
+
+
+@keyframe
+
+from to
+0% 100%
