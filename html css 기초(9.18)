@@ -1,0 +1,34 @@
+tabindex 정리
+키보드로 순차탐색 할 시에 각 엘리먼트가 가지는 요소값을 의미한다.
+
+- tabindex는 전역 속성이다.
+- 최대값은 32767이다.
+- 기본값은 -1
+- 0보다 큰 숫자도 사용은 가능하나 권장하는 값은 아님.
+
+
+
+inline과 block, inline block의 차이
+
+ellipsis
+overflow
+text-overflow
+white-space
+
+
+jQuery 
+parent()
+https://api.jquery.com/parent/
+
+siblings()
+https://api.jquery.com/siblings/
+
+
+section : 서로 관계 있는 문서를 분리하는 역할을 함.
+ex)주로 문서를 다른 주제로 구분짓기 위해 사용됨.
+
+article : 내용이 각기 독립적이고 홀로 설 수 있는 내용을 담는 태그
+ex)블로그, 포럼, 뉴스
+
+
+shadow
